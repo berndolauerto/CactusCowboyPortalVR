@@ -1,6 +1,6 @@
 # Cactus Cowboy Portal VR 
 
-![GitHub Logo](/Splash.png)
+![GitHub Logo](/Splash.jpg)
 
 Cactus Cowboy is back in Cactus Cowboy Portal VR!
 
